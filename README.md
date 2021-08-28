@@ -23,11 +23,13 @@ Please give this repo a ⭐️ if it inspires you. Thanks. ☺️
                 <td><a
                         href="https://github.com/qazwsxedcrfv12/LeetCode/blob/main/1338.%20Reduce%20Array%20Size%20to%20The%20Half/a.md">Solution</a>
                 </td>
+                </tr>
+                <tr>
                  <td>2</td>
                 <td>Last Stone Weight</td>
                 <td>Easy</td>
                 <td><a
-                        href="https://github.com/qazwsxedcrfv12/LeetCode/blob/main/1338.%20Reduce%20Array%20Size%20to%20The%20Half/a.md">Solution</a>
+                        href="https://github.com/qazwsxedcrfv12/LeetCode/blob/main/1046.%20Last%20Stone%20Weight/a.md">Solution</a>
                 </td>
             </tr>
         </tbody>
