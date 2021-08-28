@@ -21,7 +21,7 @@ Please give this repo a ⭐️ if it inspires you. Thanks. ☺️
                 <td>Reduce Array Size to The Half</td>
                 <td>Medium</td>
                 <td><a
-                        href="https://leetcode.com/problems/reduce-array-size-to-the-half/discuss/1427969/c-easy-and-efficient-solution-using-hash-map-and-heap">Solution</a>
+                        href="https://github.com/qazwsxedcrfv12/LeetCode/blob/main/1338.%20Reduce%20Array%20Size%20to%20The%20Half/a.md">Solution</a>
                 </td>
             </tr>
         </tbody>
