@@ -32,5 +32,10 @@ Please give this repo a ⭐️ if it inspires you. Thanks. ☺️
                         href="https://github.com/qazwsxedcrfv12/LeetCode/blob/main/1046.%20Last%20Stone%20Weight/a.md">Solution</a>
                 </td>
             </tr>
+            <tr>
+                    <td>3</td>
+                    <td>Relative Sort Array</td>
+                    <td>Medium</td>
+                     <td><a href="https://github.com/qazwsxedcrfv12/LeetCode/blob/main/1122.%20Relative%20Sort%20Array/a.md">Solution</a></td>
         </tbody>
     </table>
