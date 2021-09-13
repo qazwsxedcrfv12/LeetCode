@@ -37,5 +37,11 @@ Please give this repo a ⭐️ if it inspires you. Thanks. ☺️
                     <td>Relative Sort Array</td>
                     <td>Easy</td>
                      <td><a href="https://github.com/qazwsxedcrfv12/LeetCode/blob/main/1122.%20Relative%20Sort%20Array/a.md">Solution</a></td>
+                </tr>
+            <tr>
+                    <td>4</td>
+                    <td>Replace Elements with greatest elements on right side</td>
+                    <td>Easy</td>
+                    <td><a href="https://github.com/qazwsxedcrfv12/LeetCode/blob/main/1299.%20Replace%20Elements%20with%20Greatest%20Element%20on%20Right%20Side/a.md">Solution</a></td>
         </tbody>
     </table>
