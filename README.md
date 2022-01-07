@@ -53,5 +53,10 @@ Please give this repo a ⭐️ if it inspires you. Thanks. ☺️
                         <td>Easy</td>
                         <td><a href="https://github.com/qazwsxedcrfv12/LeetCode/blob/main/Remove%20All%20Adjacent%20Duplicates%20In%20String/a.md">Solution</a></td>
                 </tr>
+                <tr>
+                        <td>6</td>
+                        <td>Final Prices with special discount in shop</td>
+                        <td>Easy</td>
+                        <td><a href="https://github.com/qazwsxedcrfv12/LeetCode/blob/main/1475.%20Final%20Prices%20With%20a%20Special%20Discount%20in%20a%20Shop/a.md">Solution</a></td>
         </tbody>
     </table>
