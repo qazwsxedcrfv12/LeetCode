@@ -1,6 +1,9 @@
 # LeetCode
 LeetCode Coding Problems
-Author: <a href="https://github.com/qazwsxedcrfv12">Abhishek Kumar</a>
+
+Github : <a href="https://github.com/qazwsxedcrfv12">Abhishek Kumar</a><br>
+Author : <a href="https://leetcode.com/abhishek-k8/">Abhishek Kumar (Leetcode)</a>
+
 
 My C++ Code for LeetCode OJ.
 
@@ -43,5 +46,12 @@ Please give this repo a ⭐️ if it inspires you. Thanks. ☺️
                     <td>Replace Elements with greatest elements on right side</td>
                     <td>Easy</td>
                     <td><a href="https://github.com/qazwsxedcrfv12/LeetCode/blob/main/1299.%20Replace%20Elements%20with%20Greatest%20Element%20on%20Right%20Side/a.md">Solution</a></td>
+                </tr>
+                <tr>
+                        <td>5</td>
+                        <td>Remove all adjacent duplicate chracter from string</td>
+                        <td>Easy</td>
+                        <td><a href="https://github.com/qazwsxedcrfv12/LeetCode/blob/main/Remove%20All%20Adjacent%20Duplicates%20In%20String/a.md">Solution</a></td>
+                </tr>
         </tbody>
     </table>
