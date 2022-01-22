@@ -63,5 +63,10 @@ Please give this repo a ⭐️ if it inspires you. Thanks. ☺️
                                 <td>Sum of Square Numbers</td>
                                 <td>Medium</td>
                                 <td><a href="https://github.com/qazwsxedcrfv12/LeetCode/blob/main/633.%20Sum%20of%20Square%20Numbers/a.md">Solution</a></td>
+                        <tr>
+                                <td>8</td>
+                                <td>A number after a double reversal</td>
+                                <td>Easy</td>
+                                <td><a href="https://github.com/qazwsxedcrfv12/LeetCode/blob/main/2119.%20A%20Number%20After%20a%20Double%20Reversal/a.md">Solution</a></td>
         </tbody>
     </table>
