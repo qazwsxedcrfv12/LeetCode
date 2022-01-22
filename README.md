@@ -73,5 +73,10 @@ Please give this repo a ⭐️ if it inspires you. Thanks. ☺️
                                <td>Minimum no of steps to make two string anagram</td>
                                <td>Medium</td>
                                <td><a href="https://github.com/qazwsxedcrfv12/LeetCode/blob/main/1347.%20Minimum%20Number%20of%20Steps%20to%20Make%20Two%20Strings%20Anagram/a.md">Solution</a></td>
+                      <tr>
+                              <td>10</td>
+                              <td>Detremine color of Chessboard</td>
+                              <td>Easy</td>
+                              <td><a href="https://github.com/qazwsxedcrfv12/LeetCode/blob/main/1812.%20Determine%20Color%20of%20a%20Chessboard%20Square/a.md">Solution</a></td>
         </tbody>
     </table>
