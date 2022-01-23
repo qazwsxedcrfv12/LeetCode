@@ -78,5 +78,10 @@ Please give this repo a ⭐️ if it inspires you. Thanks. ☺️
                               <td>Detremine color of Chessboard</td>
                               <td>Easy</td>
                               <td><a href="https://github.com/qazwsxedcrfv12/LeetCode/blob/main/1812.%20Determine%20Color%20of%20a%20Chessboard%20Square/a.md">Solution</a></td>
+                     <tr>
+                             <td>11</td>
+                             <td>Maximum product difference between two pairs</td>
+                             <td>Easy</td>
+                             <td><a href="https://github.com/qazwsxedcrfv12/LeetCode/blob/main/1913.%20Maximum%20Product%20Difference%20Between%20Two%20Pairs/a.md">Solution</a></td>
         </tbody>
     </table>
